@@ -6,5 +6,5 @@
 
 3.各个版本运行情况：
  v01：空项目时： 
- ![记事本中无内容](https://github.com/syh977/Homewrok/blob/master/N)%25E5PV%60VJQWUN%241YJ(9H5J.png)
+
  
