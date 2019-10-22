@@ -6,7 +6,17 @@
 
 3.各个版本运行情况：
  v01：空项目时： 
+ 
  ![YLSD中无内容时](https://github.com/syh977/Homewrok/blob/master/v0.1.png)
+ 
+ 此时运行的结果为：
+ 
+ ![运行结果](https://github.com/syh977/Homewrok/blob/master/v0.2.png)
+ 
+ 
+ v01:基础功能的实现：
+ 
+ 
  
  
 
