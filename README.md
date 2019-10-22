@@ -14,7 +14,27 @@
  ![运行结果](https://github.com/syh977/Homewrok/blob/master/v0.2.png)
  
  
- v01:基础功能的实现：
+ v02:基础功能的实现：
+ YLSD中写入一些单词与标点符号：
+ 
+ ![YlSD中内容](https://github.com/syh977/Homewrok/blob/master/v1.1.png)
+ 
+ 运行结果为：
+ 
+ ![运行结果](https://github.com/syh977/Homewrok/blob/master/v1.2.png)
+ 
+ 
+ v03拓展功能的实现：
+ 在基础功能上，添加了统计行数，全部字符以及将结果导入到out.txt文件中的功能
+ 
+ v01中结果导入到out.txt的情况：
+ 
+ ![v01](https://github.com/syh977/Homewrok/blob/master/v3.2.png)
+ 
+ 
+ v02中结果导入到out.txt的情况：
+ 
+ ![v02](https://github.com/syh977/Homewrok/blob/master/v3.1.png)
  
  
  
